@@ -9,7 +9,6 @@
 # Java web eclipse based.
 *.project
 *.settings
-*.class
 
 # Packages #
 ############
